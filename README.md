@@ -9,6 +9,7 @@
 
 <div align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=flate&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=flate&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-#47A248?style=flate&logo=python&logoColor=white">
   
   </div>
