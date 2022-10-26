@@ -1,7 +1,8 @@
 # sparta_fanguestpage
 # 팬 방명록 
 
-![Animation3](https://user-images.githubusercontent.com/80263801/6b53402d-a8c4-44b9-875f-ce0674f5a662.gif)
+![Animation3](https://user-images.githubusercontent.com/80263801/197914270-d2c3b8f4-fcc9-46cc-bdef-e818b455c80c.gif)
+
 
 ![f롤로](https://user-images.githubusercontent.com/80263801/197698602-107dbd06-9133-41ea-baab-9d8c005cf43a.jpg)
 
